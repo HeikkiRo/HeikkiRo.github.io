@@ -1,7 +1,7 @@
 ## Heikki Rousu web-tehtävä  
 ---
 
-##Italics and Bold
+## Italics and Bold
 
 Writing in Markdown is _not_ that hard!
 
@@ -13,7 +13,7 @@ If you're thinking to yourself, **_This is unbelievable_**, you'd probably be ri
 
 ---
 
-##Headers
+## Headers
 
 
 # Header one
@@ -31,7 +31,7 @@ Here's some words about the book _One Hundred Years..._.
 
 ---
 
-##Links
+## Links
 
 [Search for it.](www.google.com)
 
@@ -48,7 +48,7 @@ Well, do I have [the website for you][another fun place]!
 
 ---
 
-##Images
+## Images
 
 ![A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 
@@ -61,7 +61,7 @@ Well, do I have [the website for you][another fun place]!
 [Orange]: http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png
 
 ---
-##Blockquotes
+## Blockquotes
 
 I read this interesting quote the other day:
 
@@ -76,7 +76,7 @@ I read this interesting quote the other day:
 >He left her quickly, fearing that her intimacy might turn to jibing and wishing to be out of the way before she offered her ware to another, a tourist from England or a student of Trinity. Grafton Street, along which he walked, prolonged that moment of discouraged poverty. In the roadway at the head of the street a slab was set to the memory of Wolfe Tone and he remembered having been present with his father at its laying. He remembered with bitterness that scene of tawdry tribute. There were four French delegates in a brake and one, a plump smiling young man, held, wedged on a stick, a card on which were printed the words: _VIVE L'IRLANDE_!
 
 ---
-##Lists
+## Lists
 
 * Flour
 * Cheese
@@ -89,7 +89,9 @@ I read this interesting quote the other day:
 * Azalea (_Ericaceae Rhododendron_)
 * Chrysanthemum (_Anthemideae Chrysanthemum_)
 * Dahlia (_Coreopsideae Dahlia_)
+
 <br>
+
 * Calculus
     * A professor
     * Has no hair
@@ -111,8 +113,8 @@ I read this interesting quote the other day:
 
 ---
 
-##Paragraphs
-###Soft breaks
+## Paragraphs
+#### Soft breaks
 
 We pictured the meek mild creatures where  
 They dwelt in their strawy pen,  
